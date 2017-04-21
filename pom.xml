@@ -8,6 +8,7 @@
     <artifactId>cloudfin-parent</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <name>Cloudfin Parent</name>
 
 
     <build>
@@ -38,5 +39,6 @@
     </build>
     <modules>
         <module>cloudfincore</module>
+        <module>webapp</module>
     </modules>
 </project>
