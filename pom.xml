@@ -40,5 +40,6 @@
     <modules>
         <module>cloudfincore</module>
         <module>webapp</module>
+        <module>api</module>
     </modules>
 </project>
