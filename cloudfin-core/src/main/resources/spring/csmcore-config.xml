@@ -7,6 +7,6 @@
   http://www.springframework.org/schema/context/spring-context-4.0.xsd" >  
  
  <context:annotation-config/>
- <context:component-scan base-package="edu.zipcloud.cloudstreetmarket.core" />  
+ <context:component-scan base-package="edu.fintime.cloudfin.core" />
 
 </beans>  

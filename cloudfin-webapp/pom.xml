@@ -36,10 +36,10 @@
     <dependencies>
 
         <!-- Projects dependencies -->
-        <dependency>
-            <groupId>edu.fintime</groupId>
-            <artifactId>fintime-core</artifactId>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>edu.fintime</groupId>-->
+            <!--<artifactId>fintime-core</artifactId>-->
+        <!--</dependency>-->
 
         <dependency>
             <groupId>javax.servlet.jsp</groupId>

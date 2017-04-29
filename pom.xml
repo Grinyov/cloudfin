@@ -13,7 +13,7 @@
 
     <properties>
         <csm.version>0.0.1-SNAPSHOT</csm.version >
-        <zipcloud.version>0.0.1-SNAPSHOT</zipcloud.version>
+        <fintime.version>0.0.1-SNAPSHOT</fintime.version>
         <csm.group.id>edu.zipcloud.cloudstreetmarket</csm.group.id>
         <spring.version>4.1.0.RELEASE</spring.version>
         <log4j.version>1.2.17</log4j.version>
@@ -30,11 +30,11 @@
 
     <dependencyManagement>
         <dependencies>
-            <!-- ZipCloud dependencies -->
+            <!-- Fintime dependencies -->
             <dependency>
-                <groupId>edu.zipcloud</groupId>
-                <artifactId>zipcloud-core</artifactId>
-                <version>${zipcloud.version}</version>
+                <groupId>edu.fintime</groupId>
+                <artifactId>fintime-core</artifactId>
+                <version>${fintime.version}</version>
             </dependency>
 
             <!-- Spring dependencies -->
